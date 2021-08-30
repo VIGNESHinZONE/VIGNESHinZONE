@@ -1,5 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Machine Learning in Scientific Applications
+- 🌱 I’m currently learning about Web and Cloud Technologies
+- 👯 I’m looking to collaborate on fun Open Source Projects (Industrial and Academia)
+- 📫 How to reach me: mvenkataraman@ph.iitr.ac.in
+
 
 <!--
 **VIGNESHinZONE/VIGNESHinZONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
